@@ -47,6 +47,3 @@ fs.readFile('input.txt', 'utf8', (err, data) => {
     console.log(twoCount * threeCount);
 
 });
-
-
-
